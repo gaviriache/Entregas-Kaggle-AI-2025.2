@@ -5,8 +5,8 @@ Repositorio de entregas del proyecto Kaggle para el modelo de clasificación de 
 
 ---
 
-** Nombre                 :**   Luis Miguel Gaviria Cardona 
+** Nombre                 :   Luis Miguel Gaviria Cardona 
 
-** Cédula de Ciudadanía   :**   1035916086   
+** Cédula de Ciudadanía   :   1035916086   
 
-** Programa Académico     :**   Bioingeniería 
+** Programa Académico     :   Bioingeniería 
