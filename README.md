@@ -10,3 +10,6 @@ Repositorio de entregas del proyecto Kaggle para el modelo de clasificación de 
 ** Cédula de Ciudadanía   :   1035916086   
 
 ** Programa Académico     :   Bioingeniería 
+
+**Link Video YouTube        :  https://youtu.be/Q8I1geS9aqA
+
